@@ -27,6 +27,18 @@
   </a>
 </div>
 
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=docker,go,java,spring,linux,windows,github,vscode,ansible,git" />
+    <img src="https://skillicons.dev/icons?i=python,nginx,postman,terraform,postgres,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
+
 <!--
 **bearfromsiberia/bearfromsiberia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
