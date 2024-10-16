@@ -7,6 +7,17 @@
 <h3 align="center">A passionate software developer from Russia</h3>
 
 <br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently **a trainee** in PlaysDev
+ 
+ 🌱 I’m currently learning **DevOps instruments**
+
+💬 Ask me about **[here](https://github.com/salesp07/salesp07/issues)**
+
+ </div>
+
 <!--
 **bearfromsiberia/bearfromsiberia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
